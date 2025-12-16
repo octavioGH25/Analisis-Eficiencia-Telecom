@@ -47,7 +47,7 @@ Para la presentación ejecutiva, los resultados se integraron en un Dashboard in
 
 | **Dashboard Interactivo** | **Presentación Ejecutiva** |
 | :---: | :---: |
-| [![Tableau](https://img.shields.io/badge/Ver_en-Tableau_Public-E97627?style=for-the-badge&logo=tableau)](https://public.tableau.com/shared/XD8YPKRND?:display_count=n&:origin=viz_share_link) | [![Gamma](https://img.shields.io/badge/Ver_Presentación-Gamma-purple?style=for-the-badge)](https://gamma.app/docs/Analisis-de-Operadores-de-Telecomunicaciones-mu6u9sn4yl96tlo) |
+| [![Tableau](https://img.shields.io/badge/Ver_en-Tableau_Public-E97627?style=for-the-badge&logo=tableau)](https://public.tableau.com/views/Dashboard_del_Proyecto_Final_14/Dashboard1?:language=es-ES&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) | [![Gamma](https://img.shields.io/badge/Ver_Presentación-Gamma-purple?style=for-the-badge)](https://gamma.app/docs/Analisis-de-Operadores-de-Telecomunicaciones-mu6u9sn4yl96tlo) |
 
 ### Vista Previa del Análisis
 ![Dashboard Preview](dashboard_telecom.png)
@@ -64,4 +64,5 @@ Para la presentación ejecutiva, los resultados se integraron en un Dashboard in
 
 ---
 **Autor:** Octavio Landa Verde
+
 *Analista de Datos | Especialidad en Finanzas y Control Interno*
