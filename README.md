@@ -9,6 +9,14 @@ Este proyecto aborda un problema de negocio crítico: la identificación precisa
 
 ---
 
+## 🔗 Enlaces Rápidos al Análisis
+
+| **Código Python** | **Dashboard Interactivo** | **Presentación Ejecutiva** |
+| :---: | :---: | :---: |
+| [![Jupyter](https://img.shields.io/badge/Jupyter-Ver_Notebook_Completo-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](Proyecto_Final_14.ipynb) | [![Tableau](https://img.shields.io/badge/Tableau-Ver_Dashboard-E97627?style=for-the-badge&logo=tableau)](https://public.tableau.com/views/Dashboard_del_Proyecto_Final_14/Dashboard1?:language=es-ES&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) | [![Gamma](https://img.shields.io/badge/Gamma-Ver_Presentación-purple?style=for-the-badge)](https://gamma.app/docs/Analisis-de-Operadores-de-Telecomunicaciones-mu6u9sn4yl96tlo) |
+
+---
+
 ## 🎯 El Desafío (Business Problem)
 La gerencia necesitaba una metodología objetiva para detectar a los operadores que no cumplían con los estándares de servicio. El reto era traducir el concepto subjetivo de "ineficacia" en métricas cuantificables.
 
@@ -41,15 +49,8 @@ Implementé un flujo de trabajo analítico riguroso ("Data-Driven Decision Makin
 
 ---
 
-## 📊 Visualización y Dashboard
+## 📊 Visualización del Análisis
 
-Para la presentación ejecutiva, los resultados se integraron en un Dashboard interactivo de Tableau y una presentación de alto nivel.
-
-| **Dashboard Interactivo** | **Presentación Ejecutiva** |
-| :---: | :---: |
-| [![Tableau](https://img.shields.io/badge/Ver_en-Tableau_Public-E97627?style=for-the-badge&logo=tableau)](https://public.tableau.com/views/Dashboard_del_Proyecto_Final_14/Dashboard1?:language=es-ES&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) | [![Gamma](https://img.shields.io/badge/Ver_Presentación-Gamma-purple?style=for-the-badge)](https://gamma.app/docs/Analisis-de-Operadores-de-Telecomunicaciones-mu6u9sn4yl96tlo) |
-
-### Vista Previa del Análisis
 ![Dashboard Preview](dashboard_telecom.png)
 *(Captura de análisis de distribución de llamadas)*
 
@@ -64,5 +65,4 @@ Para la presentación ejecutiva, los resultados se integraron en un Dashboard in
 
 ---
 **Autor:** Octavio Landa Verde
-
 *Analista de Datos | Especialidad en Finanzas y Control Interno*
